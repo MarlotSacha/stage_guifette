@@ -2,6 +2,7 @@
 title: "markdown_guifette"
 output: html_document
 date: "2026-04-08"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
