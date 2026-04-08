@@ -1,0 +1,13 @@
+---
+title: "markdown_guifette"
+output: html_document
+date: "2026-04-08"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Je test Rmarkdown avec github pour voir ce que ca donne
