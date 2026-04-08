@@ -8,11 +8,7 @@ date: "2026-04-08"
 
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library()
-setwd("C:/Users/sacha/Desktop/stage guifette/analyse/data")
-```
+
 
 ## R Markdown
 
