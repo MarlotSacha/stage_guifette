@@ -18,3 +18,7 @@ setwd("C:/Users/sacha/Desktop/stage guifette/analyse/data")
 
 Je test Rmarkdown avec github pour voir ce que ca donne
 
+<<<<<<< HEAD
+=======
+Youhouu
+>>>>>>> 0b7a8300181d27d2e6ca59a57cad5eaf1e8f9c82
